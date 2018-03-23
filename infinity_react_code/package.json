@@ -1,0 +1,29 @@
+{
+  "name": "infinity_table",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@types/material-ui": "^0.21.1",
+    "@types/material-ui-pagination": "^1.0.1",
+    "@types/react-paginate": "^4.3.2",
+    "material-ui": "^0.20.0",
+    "material-ui-pagination": "^1.1.6",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-paginate": "^5.2.2",
+    "react-scripts-ts": "2.14.0"
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  },
+  "devDependencies": {
+    "@types/jest": "^22.2.0",
+    "@types/node": "^9.4.7",
+    "@types/react": "^16.0.40",
+    "@types/react-dom": "^16.0.4",
+    "typescript": "^2.7.2"
+  }
+}
