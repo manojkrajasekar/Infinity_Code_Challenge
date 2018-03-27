@@ -1,0 +1,4 @@
+.column-header:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}

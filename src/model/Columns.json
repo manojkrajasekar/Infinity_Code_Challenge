@@ -1,0 +1,27 @@
+[{    
+    "id": "name",
+    "label": "Name",
+    "type": "string"
+}, {
+    "id": "symbol",
+    "label": "Symbol",
+    "type": "string"
+}, {
+    "id": "rank",
+    "label": "Rank",
+    "type": "number"
+}, {
+    "id": "price_btc",
+    "label": "BTC Price",
+    "type": "currency",
+    "currency_symbol": "BTC"
+}, {
+    "id": "24h_volume_usd",
+    "label": "USD Price",
+    "type": "currency",
+    "currency_symbol": "$"
+}, {
+    "id": "last_updated",
+    "label": "Last Updated",
+    "type": "date"
+}]
